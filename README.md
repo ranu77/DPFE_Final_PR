@@ -159,35 +159,6 @@ The final dataset contains:
 
 ---
 
-# Project Structure
-
-```
-PR_Final_Data_Preprocessing_Feature_Engineering/
-│
-├── customer_credit_risk.csv
-├── customer_metadata.json
-├── credit_risk.db
-├── Theory_Concepts_Data_Preprocessing_Project.pdf
-├── PR_Final_Data_Preprocessing_Feature_Engineering.ipynb
-├── customer_credit_risk_final.csv
-├── README.md
-└── screenshots/
-```
-
----
-
-# Video Demonstration
-
-**Google Drive / YouTube Link:**
-
-Paste your project explanation video link here.
-
-Example:
-
-https://drive.google.com/your-video-link
-
----
-
 # Learning Outcomes
 
 After completing this project, I learned to:
@@ -207,4 +178,3 @@ After completing this project, I learned to:
 
 **Name:** Devanshi Kanthariya
 
-Course: Data Preprocessing & Feature Engineering
